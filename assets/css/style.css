@@ -459,11 +459,9 @@ h1 {
     color: var(--black) ;
     background-color: var(--white);
     display: none;
-    width: 388px;
     padding: 16px 32px;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
 }
 
 /* / SECTION 4 */
